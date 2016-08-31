@@ -2,5 +2,8 @@
     git add *
 (2) git commit -m 'commit message'
 
+* git commit -a -m 'added new benchmarks'
+#skipping the staging area
+
 PUSHING CHANGES
 (1) git push origin master
