@@ -1,1 +1,6 @@
-aaa
+(1) git add <filename>
+    git add *
+(2) git commit -m 'commit message'
+
+PUSHING CHANGES
+(1) git push origin master
